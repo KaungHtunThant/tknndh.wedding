@@ -1,14 +1,14 @@
 
-<p align="center"><a href="https://sonali.netlify.app/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
-<h1 align="center"><a href="https://sonali.netlify.app/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 29, 2020 <br> <a href="https://sonali.netlify.app/">sonali.netlify.app</a></h1>
+<p align="center"><a href="https://tknndh.powerglobal.com.mm/"><img src="./assets/wedding.gif" width="150px" height="150px"/></a></p>
+<h1 align="center"><a href="https://tknndh.powerglobal.com.mm/">Wedding Invitation</a> :ring: <br> <br> SAVE THE DATE: NOV 25, 2023 <br> <a href="https://tknndh.powerglobal.com.mm/">tknndh.powerglobal.com.mm</a></h1>
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://sonali.netlify.app/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Wedding-Invitation?logo=github)](https://tknndh.powerglobal.com.mm/) [![Netlify Status](https://api.netlify.com/api/v1/badges/e945f101-f434-45e6-8c33-df855c6b2082/deploy-status)](https://app.netlify.com/sites/sonali/deploys) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Wedding-Invitation?logo=github)](https://github.com/vinitshahdeo/Wedding-Invitation)
 
-## Wedding Invitation :ring:
+<!-- ## Wedding Invitation :ring:
 
 <details>
   <summary><strong>View Invitation</strong></summary>
-  <a href="https://sonali.netlify.app/"><img src="./assets/img/sonali.jpeg" /></a>
+  <a href="https://tknndh.powerglobal.com.mm/"><img src="./assets/img/sonali.jpeg" /></a>
 </details>
 
 With the divine grace of the almighty,
@@ -18,7 +18,7 @@ inviting you and your family to elder sister's wedding to be held on **29th Nove
 
 - Find [venue](https://goo.gl/maps/5z5xX2hTYzU8VGEJ9) on Google map
 
-- Visit the [website](https://sonali.netlify.app/) for more details
+- Visit the [website](https://tknndh.powerglobal.com.mm/) for more details
 
 - See the Facebook [post](https://www.facebook.com/vinit.shahdeo/posts/3521599654622390)
 
@@ -39,7 +39,7 @@ const weddingVenue = new Location('Ashirwad Garden, Ranchi');
 
     // your presence is requested
     (new Wedding()).acceptInvitation(
-        window.open('https://sonali.netlify.app/')
+        window.open('https://tknndh.powerglobal.com.mm/')
     );
 })();
 
@@ -82,3 +82,4 @@ Tag me to share your wedding story on Twitter([@Vinit_Shahdeo](https://twitter.c
 **Vinit Shahdeo**<i></sup><br>
 [![Twitter Follow @Vinit_Shahdeo](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/Vinit_Shahdeo)
 # tknndh.wedding
+ -->
